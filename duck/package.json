@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: Can't test this specified\" && exit 1"
+    "test": "echo \"Error: Can't test this specifiedi case`\" && exit 1"
   },
   "keywords": [],
   "author": "",
